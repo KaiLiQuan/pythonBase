@@ -4,3 +4,5 @@ def func1():
 
 
 func1()
+print "hello"
+print("duan is comming")
