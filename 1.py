@@ -1,2 +1,6 @@
 coding:utf-8
-print "hello"
+def func1():
+    print "hello"
+
+
+func1()
